@@ -1,0 +1,33 @@
+body{
+  padding-top:80px;
+  word-wrap:break-word;
+  b!ackground-color: rgb(227,92,197);
+  background-image: url(https://www.tacobell.com/images/PaintTheBite-full.jpg);
+}
+img{
+  height: 500px;
+}
+.jumbotron{
+  background: radial-gradient(#ebff6a, transparent);
+}
+
+h1{
+  color: #fff;
+  text-shadow:
+      0 0 7px #fff,
+      0 0 10px #fff,
+      0 0 21px #fff,
+      0 0 42px #0fa,
+      0 0 82px #0fa,
+      0 0 92px #0fa,
+      0 0 102px #0fa,
+      0 0 151px #0fa;
+}
+
+label{
+  color:rgb(167, 9, 182);
+}
+
+p{
+  color:rgb(167, 9, 182);
+}
